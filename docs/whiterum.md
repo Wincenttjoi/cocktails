@@ -5,8 +5,8 @@ sidebar_label: White Rum
 
 # White Rum Cocktails
 
-## Rum & Coke
-A classic and simple cocktail that's always a hit.
+## Rum & Coke  
+A classic and simple cocktail that's always a hit. The combination of white rum and Coke is a crowd-pleaser, offering a smooth and slightly sweet drink with a touch of rum warmth.
 
 **Ingredients:**  
 - 50ml White Rum  
@@ -25,8 +25,8 @@ A classic and simple cocktail that's always a hit.
 
 ---
 
-## Daiquiri
-A tart and refreshing rum-based cocktail.
+## Daiquiri  
+A tart and refreshing rum-based cocktail. The fresh lime juice balances the sweetness from the sugar syrup, making it a crisp and vibrant drink.
 
 **Ingredients:**  
 - 50ml White Rum  
@@ -44,27 +44,8 @@ A tart and refreshing rum-based cocktail.
 
 ---
 
-## Rum Sour
-A smooth and tangy drink with a rum base.
-
-**Ingredients:**  
-- 50ml White Rum  
-- 25ml Fresh Lemon Juice  
-- 15ml Sugar Syrup
-
-**Instructions:**  
-1. Shake white rum, lemon juice, and sugar syrup with ice.  
-2. Strain into a chilled glass and serve.
-
-**Profile:**  
-- 🍋 Acidity: ⭐⭐⭐  
-- 🔥 Strength: ⭐⭐⭐  
-- 🍬 Sweetness: ⭐⭐
-
----
-
-## Rum Lemonade
-A light and refreshing cocktail perfect for warm days.
+## Rum Lemonade  
+A light and refreshing cocktail perfect for warm days. The combination of white rum and lemonade is simple but satisfying, offering a bright and crisp flavor.
 
 **Ingredients:**  
 - 50ml White Rum  
@@ -78,5 +59,3 @@ A light and refreshing cocktail perfect for warm days.
 - 🍋 Acidity: ⭐⭐⭐  
 - 🔥 Strength: ⭐⭐  
 - 🍬 Sweetness: ⭐⭐⭐
-
----
