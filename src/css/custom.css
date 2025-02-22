@@ -1,30 +1,31 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
-/* You can override the default Infima variables here. */
+/* Global overrides for a cooler color palette */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #00aaff; /* Light cyan/blue for a refreshing look */
+  --ifm-color-primary-dark: #0088cc; /* Deeper blue for contrast */
+  --ifm-color-primary-darker: #0077b3; /* Darker shade for depth */
+  --ifm-color-primary-darkest: #005f8c; /* Even deeper for text and borders */
+  --ifm-color-primary-light: #33b5e5; /* Light cyan for highlights */
+  --ifm-color-primary-lighter: #66ccff; /* Lightest blue for soft accents */
+  --ifm-color-primary-lightest: #99e0ff; /* Very light blue for backgrounds */
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Dark mode overrides with a cooler, evening feel */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #00b3cc; /* Slightly deeper blue-green for dark mode */
+  --ifm-color-primary-dark: #009999; /* Darker shade for text and borders */
+  --ifm-color-primary-darker: #007f7f; /* Dark teal for highlights */
+  --ifm-color-primary-darkest: #006666; /* Deep teal for strong contrasts */
+  --ifm-color-primary-light: #4cbbcc; /* Bright blue for secondary accents */
+  --ifm-color-primary-lighter: #66cccc; /* Soft cyan for subtext */
+  --ifm-color-primary-lightest: #99e6e6; /* Very light cyan for background */
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.custom-svg-size {
+  width: 100%;  /* Adjust width to fit the container */
+  height: auto; /* Maintain aspect ratio */
+  max-width: 500px; /* Optional: set a max width to avoid too large images */
+}
+
