@@ -90,51 +90,24 @@ const config: Config = {
         // },
       ],
     },
-    // footer: {
-    //   style: 'dark',
-    //   links: [
-    //     {
-    //       title: 'Docs',
-    //       items: [
-    //         {
-    //           label: 'Tutorial',
-    //           to: '/docs/intro',
-    //         },
-    //       ],
-    //     },
-    //     {
-    //       title: 'Community',
-    //       items: [
-    //         {
-    //           label: 'Stack Overflow',
-    //           href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-    //         },
-    //         {
-    //           label: 'Discord',
-    //           href: 'https://discordapp.com/invite/docusaurus',
-    //         },
-    //         {
-    //           label: 'X',
-    //           href: 'https://x.com/docusaurus',
-    //         },
-    //       ],
-    //     },
-    //     {
-    //       title: 'More',
-    //       items: [
-    //         {
-    //           label: 'Blog',
-    //           to: '/blog',
-    //         },
-    //         {
-    //           label: 'GitHub',
-    //           href: 'https://github.com/facebook/docusaurus',
-    //         },
-    //       ],
-    //     },
-    //   ],
-    //   copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-    // },
+    footer: {
+      style: 'dark',
+      links: [
+        {
+          title: 'Feedback',
+          items: [
+            {
+              label: 'Submit Feedback',
+              href: 'https://forms.gle/kvDpheUgsmcZ8j3FA',  // Replace with the correct URL for submitting feedback
+            },
+            {
+              label: 'View All Feedback',
+              href: 'https://docs.google.com/spreadsheets/d/1aJ23m05ykzT8DJuv03WVg62178Wp8zMfgPOBCUEhHSY/edit?usp=sharing',  // Replace with the correct URL for viewing feedback
+            },
+          ],
+        },
+      ],
+    },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
