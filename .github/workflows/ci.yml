@@ -1,0 +1,38 @@
+name: Deploy to Netlify
+
+on:
+  push:
+    branches:
+      - main  # Trigger CI on push to main branch
+  pull_request:
+    branches:
+      - main  # Trigger CI on pull request to main branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '18'
+
+    - name: Install Dependencies
+      run: npm install
+
+    - name: Build Site
+      run: npm run build
+
+      # Step 5: Deploy to Netlify
+    - name: Deploy to Netlify
+      uses: nwtgck/actions-netlify@v2
+      with:
+        publish-dir: './build'  # Specify the build directory (Docusaurus default is './my-website/build')
+        production-branch: 'main'  # Netlify deploys from this branch (usually 'main')
+      env:
+        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}  # Netlify authentication token
+        NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}  # Netlify site ID
