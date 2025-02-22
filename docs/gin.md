@@ -11,7 +11,7 @@ The ultimate refreshing classic! A crisp and clean drink that’s as simple as i
 **Ingredients:**  
 - 50ml Gin  
 - 1 Sugar Cube  
-- 150ml Soda Water  
+- 150ml Tonic Water
 - Lime Wedge  
 - Ice  
 
@@ -47,28 +47,6 @@ A twist on the traditional Old Fashioned, but with a gin spin! Strong, aromatic,
 - 🍂 Bitterness: ⭐⭐⭐  
 - 🔥 Strength: ⭐⭐⭐⭐⭐  
 - 🍬 Sweetness: ⭐⭐
-
----
-
-## Gin Fizz  
-Light, bubbly, and perfect for a day when you want something crisp and refreshing. This cocktail will tickle your taste buds with its zesty lime and gin combo. It’s a fizzy drink that’ll keep you coming back for more, without weighing you down.
-
-**Ingredients:**  
-- 50ml Gin  
-- 1 Sugar Cube  
-- 25ml Lime Juice  
-- 100ml Soda Water  
-- Ice  
-
-**Instructions:**  
-1. Muddle the sugar cube with lime juice in a shaker.  
-2. Add gin and ice, shake well to combine all the flavors.  
-3. Strain into a glass and top with soda water for that fizzy lift.
-
-**Profile:**  
-- 🍋 Acidity: ⭐⭐⭐⭐  
-- 🔥 Strength: ⭐⭐⭐  
-- 🍬 Sweetness: ⭐⭐⭐
 
 ---
 
