@@ -3,7 +3,7 @@ sidebar_position: 4
 sidebar_label: Whiskey
 ---
 
-# Bourbon & Japanese Whiskey Cocktails
+# Whiskey Cocktails
 
 ## Bourbon & Coke / Sprite
 A straightforward and popular drink with whiskey, offering a smooth and mellow flavor profile. The bourbon adds a rich depth while the Coke gives it that familiar sweetness. It’s an easy, no-fuss drink that’s perfect for any occasion.
