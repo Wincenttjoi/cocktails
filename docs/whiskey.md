@@ -5,17 +5,17 @@ sidebar_label: Whiskey
 
 # Bourbon & Japanese Whiskey Cocktails
 
-## Bourbon & Coke  
+## Bourbon & Coke / Sprite
 A straightforward and popular drink with whiskey, offering a smooth and mellow flavor profile. The bourbon adds a rich depth while the Coke gives it that familiar sweetness. It’s an easy, no-fuss drink that’s perfect for any occasion.
 
 **Ingredients:**  
 - 50ml Bourbon Whiskey  
-- 150ml Coke  
+- 150ml Coke / Sprite
 - Ice  
 
 **Instructions:**  
 1. Fill a glass with ice.  
-2. Pour in bourbon whiskey and top with Coke.  
+2. Pour in bourbon whiskey and top with Coke / Sprite.  
 3. Stir gently.
 
 **Profile:**  
@@ -31,7 +31,8 @@ A classic and tangy cocktail with bourbon or Japanese whiskey. The balance of th
 **Ingredients:**  
 - 50ml Bourbon Whiskey  
 - 25ml Lemon Juice  
-- 15ml Simple Syrup  
+- 15ml Simple Syrup
+- egg white
 - Ice  
 
 **Instructions:**  
@@ -107,42 +108,3 @@ A simple and refreshing cocktail with Japanese whiskey, making for a crisp, ligh
 - 🍬 Sweetness: ⭐⭐
 
 ---
-
-## Whiskey Lemon Fizz  
-A zesty and effervescent cocktail with bourbon or Japanese whiskey. The lemon adds a sharp, fresh tang, while the whiskey provides depth. It’s a fun and light drink with a fizzy twist, perfect for warm weather or casual gatherings.
-
-**Ingredients:**  
-- 50ml Bourbon Whiskey or Japanese Whiskey  
-- 25ml Lemon Juice  
-- 100ml Soda Water  
-- Ice  
-
-**Instructions:**  
-1. Fill a glass with ice.  
-2. Add whiskey and lemon juice.  
-3. Top with soda water and stir.
-
-**Profile:**  
-- 🍋 Acidity: ⭐⭐⭐⭐  
-- 🔥 Strength: ⭐⭐⭐  
-- 🍬 Sweetness: ⭐⭐
-
----
-
-## Bourbon & Sprite  
-A light, sweet, and bubbly cocktail with bourbon whiskey. The Sprite adds a citrusy sweetness that pairs well with the bourbon’s depth, creating a drink that’s easy to enjoy with a refreshing, slightly tangy finish.
-
-**Ingredients:**  
-- 50ml Bourbon Whiskey  
-- 150ml Sprite  
-- Ice  
-
-**Instructions:**  
-1. Fill a glass with ice.  
-2. Pour in bourbon whiskey and top with Sprite.  
-3. Stir gently.
-
-**Profile:**  
-- 🍋 Acidity: ⭐⭐  
-- 🔥 Strength: ⭐⭐⭐  
-- 🍬 Sweetness: ⭐⭐⭐⭐⭐
