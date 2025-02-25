@@ -30,9 +30,18 @@ const config: Config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-  plugins: [[ require.resolve('docusaurus-lunr-search'), {
-    languages: ['en'] // language codes
-  }]],
+  plugins: [
+    [ require.resolve('docusaurus-lunr-search'), {
+      languages: ['en'] // language codes
+    }],
+    [
+      '@docusaurus/plugin-google-analytics',
+      {
+        trackingID: 'G-MKWEL9N6PK',
+        anonymizeIP: true,
+      },
+    ],
+  ],
   presets: [
     [
       'classic',
