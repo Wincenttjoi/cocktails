@@ -5,6 +5,26 @@ sidebar_label: Dark Rum
 
 # Darkrum Cocktails
 
+## Mai Tai (No Orgeat Syrup)  
+A tropical cocktail that balances the richness of rum with a refreshing citrus twist. The honey adds a touch of sweetness and gives the drink a smooth finish.
+
+**Ingredients:**  
+- 60ml Dark Rum  
+- 15ml Cointreau  
+- 15ml Lime Juice  
+- 10ml Honey  
+- Ice  
+
+**Instructions:**  
+1. In a shaker, combine white rum, dark rum, Cointreau, lime juice, and honey.  
+2. Add ice and shake well.  
+3. Strain into a glass filled with crushed ice.
+
+**Profile:**  
+- 🍋 Acidity: ⭐⭐⭐  
+- 🔥 Strength: ⭐⭐⭐⭐  
+- 🍬 Sweetness: ⭐⭐⭐ 
+
 ## Rum & Coke  
 The classic combo—simple, reliable, and timeless. When in doubt, a Rum & Coke is always there to save the day. Perfect if you're looking for something that's as easy as it is satisfying. Plus, it’s a little secret weapon for any gathering, providing a smooth and effortlessly enjoyable drink.
 

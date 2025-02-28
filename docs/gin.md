@@ -5,6 +5,68 @@ sidebar_label: Gin
 
 # Gin Cocktails
 
+## White Lady  
+A refreshing and citrusy cocktail with a hint of sophistication. The gin pairs wonderfully with the Cointreau, while the lemon juice adds a zesty brightness that makes this drink light yet flavorful.
+
+**Ingredients:**  
+- 40ml Gin  
+- 20ml Cointreau  
+- 20ml Fresh Lemon Juice  
+- Ice  
+
+**Instructions:**  
+1. In a cocktail shaker, combine gin, Cointreau, and fresh lemon juice.  
+2. Add ice and shake vigorously.  
+3. Strain into a chilled glass.
+
+**Profile:**  
+- 🍋 Acidity: ⭐⭐⭐⭐  
+- 🔥 Strength: ⭐⭐⭐  
+- 🍬 Sweetness: ⭐⭐⭐
+
+---
+
+## Pink Gin  
+A simple drink where Angostura bitters are the star, adding complexity to the gin.
+
+**Ingredients:**  
+- 50ml Gin  
+- 4 dashes Angostura Bitters  
+- Ice  
+
+**Instructions:**  
+1. Pour the gin and bitters into a mixing glass with ice.  
+2. Stir well, then strain into a chilled martini or coupe glass.
+
+**Profile:**  
+- 🍋 Acidity: ⭐⭐⭐  
+- 🔥 Strength: ⭐⭐⭐  
+- 🍬 Sweetness: ⭐⭐
+
+---
+
+## Pegu Club  
+A strong and aromatic cocktail with a citrusy kick and a slightly bitter finish, perfect for those who enjoy a well-balanced, sophisticated drink.  
+
+**Ingredients:**  
+- 45ml Gin  
+- 15ml Cointreau  
+- 15ml Lime Juice  
+- 2 dashes Angostura Bitters  
+- Ice  
+
+**Instructions:**  
+1. Add gin, Cointreau, lime juice, and bitters to a shaker with ice.  
+2. Shake well and strain into a chilled cocktail glass.  
+3. Garnish with a lime wheel.  
+
+**Profile:**  
+- 🍋 Acidity: ⭐⭐⭐  
+- 🔥 Strength: ⭐⭐⭐⭐  
+- 🍬 Sweetness: ⭐⭐⭐  
+
+---
+
 ## Gin & Tonic  
 The ultimate refreshing classic! A crisp and clean drink that’s as simple as it is satisfying. Perfect for those who love a little fizz with their gin. This cocktail has been a favorite for a reason—it’s light, sharp, and effortlessly easy to sip on.
 
@@ -27,13 +89,13 @@ The ultimate refreshing classic! A crisp and clean drink that’s as simple as i
 
 ---
 
-## Classic Gin Old Fashioned  
+## Gin Old Fashioned  
 A twist on the traditional Old Fashioned, but with a gin spin! Strong, aromatic, and packed with bold flavors, this cocktail is for those who appreciate a spirit-forward drink that makes a statement. You might find yourself saying, "I’ll have another."
 
 **Ingredients:**  
 - 50ml Gin  
 - 1 Sugar Cube  
-- 2 dashes Angostura Bitters (optional)  
+- 2 dashes Angostura Bitters
 - Lemon or Orange Peel  
 - Ice  
 

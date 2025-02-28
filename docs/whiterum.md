@@ -5,6 +5,27 @@ sidebar_label: White Rum
 
 # White Rum Cocktails
 
+## Mai Tai (No Orgeat Syrup)  
+A tropical cocktail that balances the richness of rum with a refreshing citrus twist. The honey adds a touch of sweetness and gives the drink a smooth finish.
+
+**Ingredients:**  
+- 30ml Dark Rum
+- 30ml White Rum
+- 15ml Cointreau  
+- 15ml Lime Juice  
+- 10ml Honey  
+- Ice  
+
+**Instructions:**  
+1. In a shaker, combine white rum, dark rum, Cointreau, lime juice, and honey.  
+2. Add ice and shake well.  
+3. Strain into a glass filled with crushed ice.
+
+**Profile:**  
+- 🍋 Acidity: ⭐⭐⭐  
+- 🔥 Strength: ⭐⭐⭐⭐  
+- 🍬 Sweetness: ⭐⭐⭐ 
+
 ## Rum & Coke  
 A classic and simple cocktail that's always a hit. The combination of white rum and Coke is a crowd-pleaser, offering a smooth and slightly sweet drink with a touch of rum warmth.
 
